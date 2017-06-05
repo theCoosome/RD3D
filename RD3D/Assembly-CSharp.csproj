@@ -46,6 +46,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\FpsController.cs" />
+     <Compile Include="Assets\Player.cs" />
      <Compile Include="Assets\Room.cs" />
      <Compile Include="Assets\RoomGen.cs" />
  <Reference Include="UnityEngine.UI">
